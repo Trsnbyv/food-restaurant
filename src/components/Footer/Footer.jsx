@@ -58,7 +58,7 @@ const Footer = () => {
                 <form>
                   <label className='w-[250px] flex items-center relative mb-[19px]'>
                     <input className='py-[8px] pl-[15px] border-2 border-black placeholder:text-[14px] leading-[24px] placeholder:text-black rounded-l-[8px]' placeholder='Your email address' type="text" />
-                    <Button extraStyle={'py-[8px] rounded-r-lg rounded-l-none absolute top-0 right-0'}>
+                    <Button extraStyle={'py-[8.5px] rounded-r-lg rounded-l-none absolute top-0 right-0'}>
                         <p className='font-medium'>SEND</p>
                     </Button>
                   </label>
