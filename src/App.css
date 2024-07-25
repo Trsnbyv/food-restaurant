@@ -60,3 +60,9 @@ body {
   transform-origin: top center;
   transform: scaleY(1.1);
 }
+#trending-box:hover {
+  background-image: url('./assets/images/category-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
